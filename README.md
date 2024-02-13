@@ -1,2 +1,9 @@
-# phaser-module-idle
-everything needed to make an idle game using phaser game engine
+# Phaser Module
+
+This file is indended to live inside the `project/module` directory of a phaser game.
+
+# ![folder-structure](./folder-structure.jpg)
+
+An Example https://github.com/Zbeyer/ppa-lol
+
+*   Modules are git ignored
